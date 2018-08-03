@@ -1,6 +1,6 @@
 const config = {
     DBAddress : 'mongodb://localhost/SmartLife',
-    Port: 4000
+    Port: 8080
 }
 
 module.exports = config ;
